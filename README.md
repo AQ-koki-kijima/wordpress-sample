@@ -7,6 +7,7 @@ Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: re
 # 使用方法
 フロント画面  
 http://localhost:10090  
-  
+※最初のアクセス時、表示まで時間がかかることがあります
+    
 管理画面  
 http://localhost:10099
