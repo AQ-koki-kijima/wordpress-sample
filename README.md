@@ -5,5 +5,8 @@ docker-compose up -d
 Error response from daemon: Get "https://registry-1.docker.io/v2/": net/http: request canceled while waiting for connection (Client.Timeout exceeded while awaiting headers)
 
 # 使用方法
-以下へアクセス  
-http://localhost:10090
+フロント画面  
+http://localhost:10090  
+  
+管理画面  
+http://localhost:10099
